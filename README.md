@@ -1,2 +1,5 @@
 # CCG_Starter_Kits
-Automation of word document creation for country files
+
+Includes:
+
+- Automation of Word document creation for country files
