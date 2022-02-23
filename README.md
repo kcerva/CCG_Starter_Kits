@@ -12,3 +12,6 @@ countries_short = country_data[country_data['Run_SA'] == 1]['Country']
 
 icountries = country_data[country_data['Run_SA'] == 1]['ISO3']
 </code>
+
+Please cite this repository as:
+K. Cervantes Barron, W. Usher, C. Cannone, and L. Allington, “CCG_Starter_Kits: Automation of word document creation for country files,” CCG_Starter_Kits: Automation of word document creation for country files, 2021. [Online]. Available: https://zenodo.org/record/6243119.
