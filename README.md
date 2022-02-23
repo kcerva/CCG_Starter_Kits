@@ -18,4 +18,4 @@ icountries = country_data[country_data['Run_SA'] == 1]['ISO3']
 
 
 Please cite this repository as:
-K. Cervantes Barron, W. Usher, C. Cannone, and L. Allington, “CCG_Starter_Kits: Automation of word document creation for country files,” CCG_Starter_Kits: Automation of word document creation for country files, 2021. [Online]. Available: https://zenodo.org/record/6243119.
+K. Cervantes Barron, W. Usher, C. Cannone, and L. Allington, “CCG_Starter_Kits: Automatic Data in Brief article creation,” CCG_Starter_Kits: Automatic Data in Brief article creation, 2021. [Online]. Available: https://zenodo.org/record/6243119.
